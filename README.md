@@ -20,4 +20,8 @@ Plataforma - Inicialmente projeto para computador(Windows), com projetos de leva
 Controles - Pc: Setas direcionais para mover o dragão
             
             Mobile: Um emulador das setas direcionais pouco abaixo da tela do jogo
+            
+
+
+RAFAEL DO NASCIMENTO RODRIGUES RA 210211
 
