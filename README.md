@@ -10,7 +10,7 @@ Mecânicas - O dragão se move horizontalmente e verticalmente e coleta lanterna
 
 História - Couppy é um dragão da amizade e bondade e incorpora todos os bons desejos escritos nas lanternas que coleta, ficando maior a cada desejo, e com isso ele cresce cada vez mais para levar todos esses desejos ainda mais alto
 
-Público alvo - Crianças até os 10 anos de idade, o jogo possui classificação livre
+Público-alvo - Crianças até os 10 anos de idade, o jogo possui classificação livre
 
 Diferencial - O jogo mostra um pouco da cultura oriental que praticamente não é mostrada nas escolas e terá um personagem identificável
 
